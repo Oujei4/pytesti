@@ -6,3 +6,5 @@ print("tämä on uutta")
 
 #tämä myös
 print("eiköhän tämä riitä")
+
+print("tästä vielä 1")
