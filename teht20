@@ -8,3 +8,5 @@ print("tämä on uutta")
 print("eiköhän tämä riitä")
 
 print("muutetaan testissä tämmöinen")
+
+print("juuri mergesin kaksi branch yhteen")
